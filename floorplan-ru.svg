@@ -1,2 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="883" viewBox="0 0 920 883" fill="none"><path d="M900 -97H20C8.9543 -97 0 -88.0457 0 -77V863C0 874.046 8.9543 883 20 883H900C911.046 883 920 874.046 920 863V-77C920 -88.0457 911.046 -97 900 -97Z" fill="#FAF9F5"/><path d="M353.83 29H188.17C186.972 29 186 29.5792 186 30.2938V96.7063C186 97.4208 186.972 98 188.17 98H353.83C355.028 98 356 97.4208 356 96.7063V30.2938C356 29.5792 355.028 29 353.83 29Z" fill="#DBE8DF" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/><path d="M45 98H555V638H390V858H45V98Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/><path d="M875 98H555V448H875V98Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/><path d="M875 448H685V678H875V448Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/><path d="M875 678H770V858H875V678Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/><path d="M390 858V638H555V448H685V678H770V858H390Z" fill="#F1EEE6" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/><text x="271" y="69" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="600" fill="#263E32">Балкон</text><text x="295" y="425" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="600" fill="#263E32">Основная комната</text><text x="715" y="280" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" font-weight="600" fill="#263E32">Кухня</text><text x="778" y="567" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="600" fill="#263E32">Ванная</text><text x="822" y="779" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="600" fill="#263E32">Туалет</text><text x="578" y="751" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600" fill="#263E32">Прихожая</text></svg>
+<svg width="920" height="883" viewBox="0 0 920 883" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_58_666)">
+<path d="M900 -97H20C8.9543 -97 0 -88.0457 0 -77V863C0 874.046 8.9543 883 20 883H900C911.046 883 920 874.046 920 863V-77C920 -88.0457 911.046 -97 900 -97Z" fill="#FAF9F5"/>
+<path d="M353.83 29H188.17C186.972 29 186 29.5792 186 30.2938V96.7063C186 97.4208 186.972 98 188.17 98H353.83C355.028 98 356 97.4208 356 96.7063V30.2938C356 29.5792 355.028 29 353.83 29Z" fill="#DBE8DF" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/>
+<path d="M45 98H555V638H390V858H45V98Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/>
+<path d="M875 98H555V448H875V98Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/>
+<path d="M875 448H685V678H875V448Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/>
+<path d="M875 678H770V858H875V678Z" fill="#E6E9E3" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/>
+<path d="M390 858V638H555V448H685V678H770V858H390Z" fill="#F1EEE6" stroke-width="5" stroke-linejoin="round" stroke="#324B3D"/>
+<text x="271" y="69" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="600" fill="#263E32">Балкон</text>
+<text x="295" y="425" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="600" fill="#263E32">Основная комната</text>
+<text x="715" y="280" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" font-weight="600" fill="#263E32">Кухня</text>
+<text x="778" y="567" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="600" fill="#263E32">Ванная</text>
+<text x="822" y="779" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="600" fill="#263E32">Туалет</text>
+<text x="578" y="751" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600" fill="#263E32">Прихожая</text>
+</g>
+<defs>
+<clipPath id="clip0_58_666">
+<rect width="920" height="883" fill="white"/>
+</clipPath>
+</defs>
+</svg>
